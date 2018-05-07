@@ -1,1 +1,1 @@
-# 2016.M3.TQF-ML.-League-of-Legend- prediction model
+# 2017.M3.TQF-ML.-League-of-Legend-Prediction model
